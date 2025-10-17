@@ -19,6 +19,7 @@ function addItem(character, item){
     character.equipment.items.push(item)
 }
 
+
 function newSkill(character, skill) {
     character.skills.push(skill)
 }
